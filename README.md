@@ -222,7 +222,7 @@ Edit `~/.config/Claude/claude_desktop_config.json`:
 {
   "mcpServers": {
     "hexstrike-ai": {
-      "command": "python3",
+      "command": "/path/to/hexstrike-ai/hexstrike-env/bin/python3",
       "args": [
         "/path/to/hexstrike-ai/hexstrike_mcp.py",
         "--server",
