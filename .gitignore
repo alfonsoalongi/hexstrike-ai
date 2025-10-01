@@ -2,3 +2,4 @@ bin/
 hexstrike-env/
 __pycache__/
 .vscode/
+*.log
