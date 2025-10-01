@@ -111,6 +111,7 @@ graph TD
 ## Installation
 
 ### Quick Setup to Run the hexstrike MCPs Server
+Many tools, such as nmap, require elevated privileges for certain features. To avoid granting permissions to each tool individually, perform the setup steps below as the `root` user.
 
 ```bash
 # 1. Clone the repository
